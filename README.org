@@ -1,0 +1,7 @@
+https://eli.thegreenplace.net/2023/using-gemini-models-from-go
+
+Example:
+#+begin_example
+export GOOGLE_API_KEY={secret}
+make test
+#+end_example

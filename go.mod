@@ -5,7 +5,7 @@ go 1.21.5
 require (
 	github.com/google/generative-ai-go v0.18.0
 	github.com/taylormonacelli/littlecow v0.0.5
-	google.golang.org/api v0.207.0
+	google.golang.org/api v0.209.0
 )
 
 require (

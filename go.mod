@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.2
 
 require (
-	github.com/google/generative-ai-go v0.19.0
+	github.com/google/generative-ai-go v0.20.0
 	github.com/taylormonacelli/littlecow v0.0.5
 	google.golang.org/api v0.230.0
 )

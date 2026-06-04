@@ -2,7 +2,7 @@ module github.com/taylormonacelli/fulltexas
 
 go 1.25.8
 
-toolchain go1.26.3
+toolchain go1.26.4
 
 require (
 	github.com/google/generative-ai-go v0.20.1
